@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import python_for_me
+if __name__ == "__main__": __import__("os").write(1, b"#pythoniscool\n")
